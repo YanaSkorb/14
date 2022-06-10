@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\bin\Debug\netcoreapp3.1\zad1.exe
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\bin\Debug\netcoreapp3.1\zad1.deps.json
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\bin\Debug\netcoreapp3.1\zad1.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\bin\Debug\netcoreapp3.1\zad1.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\bin\Debug\netcoreapp3.1\zad1.dll
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\bin\Debug\netcoreapp3.1\zad1.pdb
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\obj\Debug\netcoreapp3.1\zad1.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\obj\Debug\netcoreapp3.1\zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\obj\Debug\netcoreapp3.1\zad1.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\obj\Debug\netcoreapp3.1\zad1.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\obj\Debug\netcoreapp3.1\zad1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\obj\Debug\netcoreapp3.1\zad1.dll
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\obj\Debug\netcoreapp3.1\zad1.pdb
+C:\Users\lenovo\OneDrive\Desktop\ПРАКТИКА\14\zad1\zad1\obj\Debug\netcoreapp3.1\zad1.genruntimeconfig.cache
